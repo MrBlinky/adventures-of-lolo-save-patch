@@ -15,8 +15,8 @@ IPS patcher. If you want to to build the patch from source then RGBASM is
 required. Put the files of this repo in a folder structure like this:
 
 <pre>
-.\rgbasm                               Folder containing RGBASM executables.
-.\patches\mickeymouse-gb-save-patch    Folder to put the files of this repo.
+.\rgbasm                                   Folder containing RGBASM executables.
+.\patches\adventures-of-lolo-gb-save-patch Folder to put the files of this repo.
 </pre>
 
 Put the 'Adventures of Lolo (U) (S).gb' rom in the project folder and run patch-rom.bat
